@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zain Alvi</h1>
-<h3 align="center">A passionate frontend developer from pakistan</h3>
+<h3 align="center">A passionate frontend web and App developer from pakistan</h3>
 <img align="right" alt="coding" width="350" src=https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zainalvi110&label=Profile%20views&color=0e75b6&style=flat" alt="zainalvi110" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 📫 You can reach me through **zainalvi552@gmail.com**
 
-- 📚 Learning **new technologies related to web development**
+- 📚 Learning **new technologies related to web development  and application development**
 
 - ⚡ Fun fact **I am also a Fitness Freak💪🏼.**
 
