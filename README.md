@@ -7,7 +7,7 @@
 
 - 📫 You can reach me through **zainalvi552@gmail.com**
 
-- 📚 Learning **new technologies related to web development  and application development**
+- 📚 Learning **new technologies related to application development and cloud engineering** 
 
 - ⚡ Fun fact **I am also a Fitness Freak💪🏼.**
 
