@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Engineer
 -------------
 
-I'm a passionate Data Engineer specializing in building robust data pipelines and scalable data solutions. With a strong foundation in computer science (currently pursuing my Bachelor's in CS from SMIU), I transform complex data challenges into efficient solutions. 🔧 What I do: - Design and implement scalable ETL pipelines - Develop data warehousing solutions - Create efficient data models and architectures - Build real-time data processing systems 🛠️ Tech Stack: - Data Processing: Python, SQL, Apache Spark - Cloud Platforms: AWS/Azure/GCP - ETL Tools: Apache Airflow, dbt - Databases: PostgreSQL, MongoDB, Snowflake - Version Control: Git 📚 Currently learning: Advanced cloud engineering and modern data stack technologies 💪 Fun fact: I balance data crunching with fitness as a dedicated fitness enthusiast! Let's connect and build data-driven solutions together!
+I'm a passionate Data Engineer specializing in building robust data pipelines and scalable data solutions. With a strong foundation in computer science (currently pursuing my Bachelor's in CS from SMIU), I transform complex data challenges into efficient solutions.
+🔧 What I do: - Design and implement scalable ETL pipelines - Develop data warehousing solutions - Create efficient data models and architectures - Build real-time data processing systems
+🛠️ Tech Stack: - Data Processing: Python, SQL, Apache Spark - Cloud Platforms: AWS/Azure/GCP - ETL Tools: Apache Airflow, dbt - Databases: PostgreSQL, MongoDB, Snowflake - Version Control: Git
+📚 Currently learning: Advanced cloud engineering and modern data stack technologies
+💪 Fun fact: I balance data crunching with fitness as a dedicated fitness enthusiast! Let's connect and build data-driven solutions together!
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [zainalvi552@email.com](mailto:zainalvi552@email.com)
