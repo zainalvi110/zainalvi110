@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zain Ul Abideen Alvi
 ============================================================================================================================================
 
-Data Engineer
+Data Engineer || AI Engineer 
 -------------
 
 I'm a passionate Data Engineer specializing in building robust data pipelines and scalable data solutions. With a strong foundation in computer science (currently pursuing my Bachelor's in CS from SMIU), I transform complex data challenges into efficient solutions.
